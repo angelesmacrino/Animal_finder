@@ -1,1 +1,1 @@
-# Animal_finder
+# The first webscrapet I made, it extracts all animal names from https://a-z-animals.com/animals/, chooses one randomly and opens it's wikipedia page. Not very efficient, a lot of times it throws an exception.
